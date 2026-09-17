@@ -18,6 +18,8 @@
 - Every finished manuscript chapter must contain at least 1,000 words of actual narrative prose; titles, planning notes, metadata, author notes, and QA checklists do not count.
 - Every chapter must stand alone through a complete local dramatic movement while connecting to neighboring chapters through payoff, changed state, and forward foreshadowing.
 - Every battle must give both champions a dramatic, historically grounded presentation of identity, achievements, Crown Title, capabilities, limits, and unanswered danger before the first meaningful exchange.
+- The series planning target is approximately 300 chapters, with immediate opening movement and no slow setup-only start.
+- Champion arrival and introduction staging must vary across neighboring battles; no repeated entrance pattern may become the default.
 - Draft ideas belong in planning/future-story/story-studio until promoted.
 - Do not silently overwrite locked canon; update affected dependent files together.
 - Manuscript prose uses close third-person limited by default, with natural dialogue, emotional specificity, varied rhythm, and distinct character voices.

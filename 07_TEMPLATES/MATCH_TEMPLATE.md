@@ -20,6 +20,9 @@
 - Foreshadowing seeds:
 - Public/national pressure:
 - Hidden tactical information:
+- Arrival mode:
+- Arrival modes used in the previous three major battles:
+- Why this arrival mode fits both champion identity and current stakes:
 
 ## Champion Presentation Plan
 - Presentation POV / source for Fighter A:
@@ -39,6 +42,7 @@
 - Unanswered danger or concealed cost:
 - Foreshadowing payoff:
 - Handoff into first meaningful exchange:
+- Introduction variety check: (different staging, POV, emotional register, and reveal order from neighboring battles)
 
 ## Fight Structure
 1. Champion Presentation for both fighters

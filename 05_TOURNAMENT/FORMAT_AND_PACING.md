@@ -1,5 +1,11 @@
 # Tournament Format and Pacing
 
+## Series Scale and Opening Pace
+
+The planning target is approximately 300 chapters. Ranges remain flexible, but the complete story must not drift into a slow opening or prolonged waiting period between meaningful developments.
+
+The Crown crisis, national stakes, and first consequential champion decisions begin in the opening chapters. The opening saga must reach meaningful tournament movement early, and setup chapters must contain conflict, pressure, a decision, or a relationship change. No chapter exists only to repeat rules or delay the next event.
+
 ## Official Field
 The World Crown provisionally recognizes 195 participating national entries. Each enters exactly one champion.
 
@@ -57,5 +63,7 @@ Every major match must change at least one of: standings, relationship, self-und
 Every finished chapter must contain at least 1,000 meaningful words of narrative prose and function as a standalone unit with a clear handoff from the preceding chapter and toward the next. A chapter may be quiet, but it must contain local pressure, emotional movement, and a closing change.
 
 Every battle must spend its opening movement on a Champion Presentation for both fighters before the first meaningful exchange. The presentation establishes name, national entry, era, reason for fighting, Crown Title, accomplishments, historical/legendary distinction, Human Art, capability, limitation, opponent contrast, and an unanswered danger. Do not open with an unexplained ability spectacle that has no established identity or foreshadowing.
+
+The arrival mode must differ from neighboring major battles. Record whether the champion enters through a public challenge, mid-conflict intervention, silent observation, aftermath discovery, national dispatch, civilian encounter, opponent memory, ritual or record activation, environmental interaction, refusal before acceptance, or another identity-grounded mode. Do not reuse the same staged entrance as a default.
 
 No three major fights in sequence should share the same reveal order, flashback timing, rhythm, or emotional ending. Use recovery, interaction, investigation, aftermath, and civilian consequence between major matches as needed.

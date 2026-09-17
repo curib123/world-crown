@@ -51,6 +51,8 @@ Run before locking a champion, match, saga change, or chapter batch.
 
 ## Champion Presentation
 - Both fighters introduced before the first meaningful exchange?
+- Arrival mode distinct from neighboring major battles?
+- Arrival staging, POV, emotional register, and reveal order varied?
 - Name, national entry, era, reason for fighting, and personhood clear?
 - Crown Title and historical/legendary meaning clear?
 - Verified accomplishments separated from disputed claims and later legend?

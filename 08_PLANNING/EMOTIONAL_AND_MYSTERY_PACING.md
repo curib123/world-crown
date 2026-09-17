@@ -4,6 +4,12 @@
 
 Tournament momentum needs contrast. Action, wonder, humor, pride, fear, grief, guilt, respect, rivalry, betrayal, relief, hope, awe, dread, tenderness, loneliness, homesickness, shame, and catharsis should not arrive in one repeated order.
 
+## 300-Chapter Momentum
+
+The full-series planning target is approximately 300 chapters. The opening must move quickly: begin with the Crown's disruption and human reaction, introduce immediate national pressure, force meaningful champion decisions early, and reach consequential tournament movement before the story settles into long-form mystery work. Avoid a chain of setup chapters that only names rules, countries, or future fighters.
+
+Every chapter changes at least one decision, relationship, danger, resource, public belief, national consequence, or Crown question. Quiet chapters may lower spectacle, but they cannot lower consequence.
+
 ## Chapter-Level Rhythm
 
 Each chapter must have a local dramatic movement and a changed state. Vary the movement between:
@@ -31,6 +37,12 @@ Use the existing match ranges as planning guides, but vary the internal order of
 - whether the ending is victory, sacrifice, surrender, technical loss, betrayal, or unresolved continuation.
 
 Do not let every fight escalate through the same ladder from Human Art to Regalia to Authority. A fighter may win through Human Art, refuse an Authority, lose because of a known limitation, or make a choice that changes the meaning of the result.
+
+## Introduction Variety
+
+Track the arrival mode of every major champion introduction. Rotate among public challenge, mid-conflict intervention, silent observation, aftermath discovery, national dispatch, civilian encounter, opponent memory, ritual or record activation, environmental interaction, and refusal before acceptance. Vary who notices the champion first, the emotional register, the first information revealed, and whether the entrance begins before or after a social conflict.
+
+Do not use the same entrance staging in neighboring major fights. If a familiar mode returns later, its context, POV, emotional purpose, and reveal order must be materially different.
 
 ## Recovery Window
 

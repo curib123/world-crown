@@ -39,6 +39,12 @@ The presentation establishes, in a character-specific order:
 
 The champion must be legible as a person before being treated as a symbol. The presentation is not a biography dump and must not grant an ability without established identity, historical basis, prior observation, or fair foreshadowing. Supporting champions receive emotional dignity even when the match is primarily told through a core protagonist's POV.
 
+## Arrival Variety
+
+The way a champion arrives must be distinct from the neighboring major battles. Record an arrival mode in the match plan and vary staging, viewpoint, emotional register, and reveal order. Suitable modes include public challenge, mid-conflict intervention, silent observation, aftermath discovery, national dispatch, civilian encounter, opponent memory, ritual or record activation, environmental interaction, and refusal before acceptance.
+
+Do not repeat the same procession, announcement, spotlight, narrator introduction, posed entrance, or first-ability reveal as the default pattern. The chosen mode must grow from the champion's identity, history, relationship to the nation, and present reason for fighting. Variation is not random novelty: the arrival must reveal character and create a different kind of anticipation.
+
 ## Battle Continuity
 
 The battle must pay off at least one prior relationship, historical, mechanical, thematic, or mystery seed. Its result must create a new state for the next chapter: a tactical change, injury, belief shift, relationship consequence, public reaction, national consequence, Crown clue, or future strategic problem.

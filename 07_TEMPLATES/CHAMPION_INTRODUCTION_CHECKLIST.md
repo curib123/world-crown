@@ -5,6 +5,8 @@ Complete this before the first meaningful exchange in every battle. The presenta
 ## Identity and Stakes
 
 - [ ] Entrance image or action shows the champion's present emotional state.
+- [ ] Arrival mode is recorded and is materially different from neighboring major battles.
+- [ ] Arrival mode fits the champion's identity, history, relationship to the nation, and present motive.
 - [ ] Name and national entry are clear.
 - [ ] Era is clear.
 - [ ] Immediate reason for fighting is clear.
@@ -41,3 +43,4 @@ Complete this before the first meaningful exchange in every battle. The presenta
 - [ ] The audience understands why this person is dangerous now.
 - [ ] The audience understands what this person wants beyond spectacle.
 - [ ] The presentation uses dramatic material rather than an information block.
+- [ ] The entrance does not reuse the same procession, announcement, spotlight, narrator pattern, or first-ability reveal as the default.

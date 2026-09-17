@@ -182,7 +182,14 @@ Every battle must open with a Champion Presentation before the first meaningful 
 
 The introduction must make the champion legible as a person before treating them as a symbol. It must not grant an ability that has not been established by history, identity, prior observation, or fair foreshadowing. The opponent receives equal narrative dignity, even when one fighter is a supporting champion.
 
-# 14. Planned Files to Add During Implementation
+# 14. Compressed 300-Chapter Scale and Introduction Variety
+The series planning target is approximately 300 chapters, replacing the earlier 500-650+ range. The story must begin moving immediately: the Crown crisis, national stakes, and meaningful champion decisions begin in the opening chapters; setup scenes must contain conflict or a changed relationship; and no opening stretch may delay the first consequential tournament movement through exposition alone.
+
+Pacing must remain active without making every chapter a fight. Each chapter changes at least one decision, relationship, danger, resource, public belief, national consequence, or Crown question. Quiet chapters are short bridges with their own conflict and payoff, not repeated waiting rooms between battles. A saga plan must identify its acceleration point, recovery space, and major turning points within the 300-chapter scale.
+
+Champion arrivals and introductions must vary in staging, point of view, emotional register, and information order. Do not repeat the same entrance image, announcement, procession, spotlight, narration pattern, or first reveal across neighboring major battles. Possible arrival modes include public challenge, mid-conflict intervention, silent observation, aftermath discovery, national dispatch, civilian encounter, opponent memory, ritual or record activation, environmental interaction, and refusal before acceptance. The mode must fit the champion's identity and be recorded in the match plan.
+
+# 15. Planned Files to Add During Implementation
 - `01_CANON/ANTAGONIST_STRUCTURE.md`
 - `01_CANON/FORESHADOWING_AND_MYSTERY_RULES.md`
 - `01_CANON/CHAPTER_AND_BATTLE_CONTINUITY_RULES.md`
@@ -200,4 +207,4 @@ The introduction must make the champion legible as a person before treating them
 `MASTER_CANON`, `NARRATIVE_STRUCTURE`, `ENSEMBLE_CAST_RULES`, `FORMAT_AND_PACING`, `SERIES_SAGA_OUTLINE`, `CANON_QA_CHECKLIST`, and `AGENTS.md`.
 
 ## Success criteria
-Continuous antagonistic pressure; a recognizable Crown face without premature exposition; enforceable character arcs; varied emotional pacing; controlled mysteries; fair foreshadowing and twists; every finished chapter containing at least 1,000 meaningful words of narrative prose; every chapter functioning as a standalone unit with a clear handoff to neighboring chapters; every battle giving both champions a dramatic, historically grounded presentation of identity, achievement, title, and capability; history integrated through drama; strong minor/major villains; and close, emotional, conversation-rich prose that reads like a deliberate novel rather than a reusable AI template.
+Continuous antagonistic pressure; a recognizable Crown face without premature exposition; enforceable character arcs; varied emotional pacing; controlled mysteries; fair foreshadowing and twists; an approximately 300-chapter scale with an active opening; every finished chapter containing at least 1,000 meaningful words of narrative prose; every chapter functioning as a standalone unit with a clear handoff to neighboring chapters; every battle giving both champions a distinct, historically grounded presentation of identity, achievement, title, and capability; history integrated through drama; strong minor/major villains; and close, emotional, conversation-rich prose that reads like a deliberate novel rather than a reusable AI template.
