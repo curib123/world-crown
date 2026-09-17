@@ -12,6 +12,8 @@ Run this review on every finished chapter before it is locked or exported.
 - [ ] Chapter contains emotional movement or changed understanding.
 - [ ] Chapter ends with a visible change.
 - [ ] Chapter can be understood and emotionally felt without requiring the next chapter to finish its local scene.
+- [ ] If this is an opening chapter, it contains active stakes rather than setup-only exposition.
+- [ ] If this is a battle chapter, it contains direct pressure and a tactical or emotional turn.
 
 ## Continuity and Foreshadowing
 
@@ -44,6 +46,8 @@ Run this review on every finished chapter before it is locked or exported.
 - [ ] Repeated constructions, rhetorical questions, forced aphorisms, and one-line fragments are limited.
 - [ ] The chapter avoids constant cliffhanger endings and excessive em-dash dependence.
 - [ ] Action, description, and explanation are balanced for the scene's purpose.
+- [ ] The chapter sustains the fast mythic tournament atmosphere without becoming empty spectacle.
+- [ ] Recovery or exposition scenes contain their own decision, conflict, or consequence.
 
 ## History and Battle
 

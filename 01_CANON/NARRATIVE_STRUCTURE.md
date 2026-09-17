@@ -42,5 +42,8 @@ Historical flashbacks should be triggered by present conflict and reveal charact
 9. final exchange;
 10. aftermath and national consequence.
 
+## Tournament Cadence
+The opening moves from Crown disruption to meaningful champion decisions and the first complete battle around Chapters 4-6. Battle chapters maintain direct pressure and a tactical or emotional turn. Recovery and exposition remain purposeful bridges with their own conflict and consequence, not repeated pauses between spectacle.
+
 ## Ensemble Convergence
 Early protagonists begin with nation-centered goals. Their arcs intersect through rivalry, friendship, guilt, national loss, Crown research, and ideological division. By the Crown War, alliances must feel earned by prior relationships.

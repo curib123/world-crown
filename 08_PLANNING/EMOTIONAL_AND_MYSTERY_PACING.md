@@ -6,7 +6,7 @@ Tournament momentum needs contrast. Action, wonder, humor, pride, fear, grief, g
 
 ## 300-Chapter Momentum
 
-The full-series planning target is approximately 300 chapters. The opening must move quickly: begin with the Crown's disruption and human reaction, introduce immediate national pressure, force meaningful champion decisions early, and reach consequential tournament movement before the story settles into long-form mystery work. Avoid a chain of setup chapters that only names rules, countries, or future fighters.
+The full-series planning target is approximately 300 chapters. The opening must move quickly: begin with the Crown's disruption and human reaction, introduce immediate national pressure, force meaningful champion decisions early, and reach the first complete battle around Chapters 4-6 before the story settles into long-form mystery work. No more than two consecutive opening chapters may be setup-only. Avoid a chain of setup chapters that only names rules, countries, or future fighters.
 
 Every chapter changes at least one decision, relationship, danger, resource, public belief, national consequence, or Crown question. Quiet chapters may lower spectacle, but they cannot lower consequence.
 
@@ -46,7 +46,7 @@ Do not use the same entrance staging in neighboring major fights. If a familiar 
 
 ## Recovery Window
 
-After roughly two or three major matches, schedule recovery, interaction, mystery, aftermath, cultural comedy, or investigation unless the story is deliberately accelerating into a climax. Grief and trauma must leave later aftereffects; a recovery chapter does not erase them.
+After roughly two or three major matches, schedule compressed recovery, interaction, mystery, aftermath, cultural comedy, or investigation unless the story is deliberately accelerating into a climax. These chapters must still contain a decision or consequence. Grief and trauma must leave later aftereffects; a recovery chapter does not erase them.
 
 ## Mystery Rhythm
 

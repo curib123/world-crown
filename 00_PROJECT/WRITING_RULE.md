@@ -32,6 +32,10 @@ History should enter through a present dramatic question. A Champion Presentatio
 
 Combat prose must keep Human Art, established tactics, psychology, terrain, and counterplay relevant. Do not introduce an unrelated emergency power merely to force a climax.
 
+## Tournament Atmosphere
+
+The tournament carries fast mythic pressure: grand entrances, meaningful titles, public stakes, sudden tactical reversals, cultural reaction, sharp humor, tenderness, dread, and irreversible consequence. Open scenes with a live pressure or question. Keep ceremony, commentary, and explanation in motion so they intensify anticipation instead of delaying the next meaningful choice or clash.
+
 ## Anti-Pattern Rules
 
 Avoid repeated constructions, identical paragraph rhythm, overuse of rhetorical questions, constant "Not X. Not Y. Just Z." patterns, forced aphorisms, exposition disguised as dialogue, interchangeable character voices, repeated dramatic one-liners, excessive em-dash dependence, constant cliffhanger endings, and narration that overexplains what dialogue or action already showed.

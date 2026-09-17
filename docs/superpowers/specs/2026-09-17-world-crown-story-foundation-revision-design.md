@@ -189,7 +189,12 @@ Pacing must remain active without making every chapter a fight. Each chapter cha
 
 Champion arrivals and introductions must vary in staging, point of view, emotional register, and information order. Do not repeat the same entrance image, announcement, procession, spotlight, narration pattern, or first reveal across neighboring major battles. Possible arrival modes include public challenge, mid-conflict intervention, silent observation, aftermath discovery, national dispatch, civilian encounter, opponent memory, ritual or record activation, environmental interaction, and refusal before acceptance. The mode must fit the champion's identity and be recorded in the match plan.
 
-# 15. Planned Files to Add During Implementation
+# 15. Tournament Tone and High-Impact Cadence
+The tournament should carry a fast, mythic death-match atmosphere: immediate danger, ceremonial scale, unforgettable Champion Presentations, grand Crown Titles, public and cultural reaction, brutal but meaningful consequences, sudden humor or tenderness, and rapid tactical reversals. This is a high-level tonal target, not permission to copy Record of Ragnarok's specific scenes, language, characters, or signature presentation.
+
+The opening must reach the first complete battle around Chapters 4-6. No more than two consecutive chapters may function primarily as setup before meaningful conflict or a consequential champion decision. During a battle, each chapter must contain direct pressure, a tactical or emotional turn, and a changed state; flashbacks and power revelations should arrive as answers to present combat rather than pausing the fight for biography.
+
+## 16. Planned Files to Add During Implementation
 - `01_CANON/ANTAGONIST_STRUCTURE.md`
 - `01_CANON/FORESHADOWING_AND_MYSTERY_RULES.md`
 - `01_CANON/CHAPTER_AND_BATTLE_CONTINUITY_RULES.md`
@@ -207,4 +212,4 @@ Champion arrivals and introductions must vary in staging, point of view, emotion
 `MASTER_CANON`, `NARRATIVE_STRUCTURE`, `ENSEMBLE_CAST_RULES`, `FORMAT_AND_PACING`, `SERIES_SAGA_OUTLINE`, `CANON_QA_CHECKLIST`, and `AGENTS.md`.
 
 ## Success criteria
-Continuous antagonistic pressure; a recognizable Crown face without premature exposition; enforceable character arcs; varied emotional pacing; controlled mysteries; fair foreshadowing and twists; an approximately 300-chapter scale with an active opening; every finished chapter containing at least 1,000 meaningful words of narrative prose; every chapter functioning as a standalone unit with a clear handoff to neighboring chapters; every battle giving both champions a distinct, historically grounded presentation of identity, achievement, title, and capability; history integrated through drama; strong minor/major villains; and close, emotional, conversation-rich prose that reads like a deliberate novel rather than a reusable AI template.
+Continuous antagonistic pressure; a recognizable Crown face without premature exposition; enforceable character arcs; varied emotional pacing; controlled mysteries; fair foreshadowing and twists; an approximately 300-chapter scale with a fast mythic tournament atmosphere; an early first battle; every finished chapter containing at least 1,000 meaningful words of narrative prose; every chapter functioning as a standalone unit with a clear handoff to neighboring chapters; every battle giving both champions a distinct, historically grounded presentation of identity, achievement, title, and capability; history integrated through drama; strong minor/major villains; and close, emotional, conversation-rich prose that reads like a deliberate novel rather than a reusable AI template.

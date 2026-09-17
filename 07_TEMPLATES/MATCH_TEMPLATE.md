@@ -43,6 +43,7 @@
 - Foreshadowing payoff:
 - Handoff into first meaningful exchange:
 - Introduction variety check: (different staging, POV, emotional register, and reveal order from neighboring battles)
+- Battle-chapter cadence: (direct pressure and meaningful turn in every chapter)
 
 ## Fight Structure
 1. Champion Presentation for both fighters

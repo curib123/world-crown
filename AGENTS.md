@@ -24,6 +24,7 @@
 - Every battle must open with a historically grounded Champion Presentation for both fighters before the first meaningful exchange.
 - The series planning target is approximately 300 chapters; the opening must establish active stakes and consequential movement without a slow setup-only start.
 - Champion arrival and introduction staging must vary across neighboring battles and be recorded in the match plan.
+- The tournament tone is fast, mythic, ceremonial, and dangerous; setup, commentary, recovery, and exposition must create pressure or consequence rather than delay the next meaningful choice or clash.
 
 ## Current state
 The base foundation and story-foundation revision are active. The revision covering villains, foreshadowing, mysteries, plot twists, emotional pacing, history integration, close-third-person prose, standalone 1,000+ word chapters, varied Champion Presentations, active opening pace, and an approximately 300-chapter plan is implemented across canon, planning, templates, and QA files.

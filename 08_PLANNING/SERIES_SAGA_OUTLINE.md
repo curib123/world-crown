@@ -3,7 +3,7 @@
 Target scale: approximately 300 chapters. Ranges are planning guides, not quotas; the story may expand only when added chapters create necessary character, mystery, national, or Crown consequences.
 
 ## Saga I - The Crown Descends | Ch. 1-18
-World Crown appears; Culling announced; National Records and immediate national pressure force action; reconstruction is proven; first meaningful champion decisions occur early; and the first complete battle takes place around Chapters 8-12. Its result changes a relationship, public belief, tactical plan, or national stake and launches Saga II. End: registration closes with an active threat.
+World Crown appears; Culling announced; National Records and immediate national pressure force action; reconstruction is proven; first meaningful champion decisions occur early; and the first complete battle takes place around Chapters 4-6. Its result changes a relationship, public belief, tactical plan, or national stake and launches Saga II. End: registration closes with an active threat.
 
 ## Saga II - Champions of Humanity | Ch. 19-38
 Major champions arrive through varied identity-grounded entrances; Crown Titles and Regalia are introduced; historical/modern interaction, rivalries, and friendships form. End: groups revealed and the first strategic conflict is already active.
@@ -15,7 +15,7 @@ Group stage begins; Human Art, Crown Body, Regalia, and Legacy dominate; standin
 Signature Arts and counter-strategy deepen; relationships strengthen; first formal eliminations; first National Collapse. Champion introductions expose contradictions between person, accomplishment, title, and legend. End: Final 32 confirmed.
 
 ## Saga V - The Falling World | Ch. 101-112
-Slower aftermath, but not a slow story: refugees, defeated champions, desperate governments, Crown research, and Legend Distortion create immediate decisions. End: knockout bracket opens with public pressure and unresolved Crown evidence.
+Compressed aftermath: refugees, defeated champions, desperate governments, Crown research, and Legend Distortion create immediate decisions without pausing tournament momentum. End: knockout bracket opens with public pressure and unresolved Crown evidence.
 
 ## Saga VI - Round of 32 | Ch. 113-155
 Single elimination; sophisticated preparation; varied arrival modes and match rhythms; core protagonists may face each other; recurring protagonists can fall. End: 16 remain and National Collapse consequences are unavoidable.

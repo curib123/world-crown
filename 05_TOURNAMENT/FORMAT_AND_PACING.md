@@ -4,7 +4,15 @@
 
 The planning target is approximately 300 chapters. Ranges remain flexible, but the complete story must not drift into a slow opening or prolonged waiting period between meaningful developments.
 
-The Crown crisis, national stakes, and first consequential champion decisions begin in the opening chapters. Saga I must include the first complete battle around Chapters 8-12, not only demonstrations or preparation. That battle's result must create a continuing consequence for Saga II. Setup chapters must contain conflict, pressure, a decision, or a relationship change. No chapter exists only to repeat rules or delay the next event.
+The Crown crisis, national stakes, and first consequential champion decisions begin in the opening chapters. Saga I must include the first complete battle around Chapters 4-6, not only demonstrations or preparation. That battle's result must create a continuing consequence for Saga II. Setup chapters must contain conflict, pressure, a decision, or a relationship change. No chapter exists only to repeat rules or delay the next event.
+
+## Tournament Atmosphere and Cadence
+
+The default energy is fast, mythic, ceremonial, and dangerous: champions arrive like living legends, titles carry weight, spectators and nations react as part of the drama, and every exchange can change the public meaning of a fighter. Balance solemn grandeur with sharp humor, human tenderness, dread, and sudden violence. Keep the focus on people under impossible pressure rather than empty spectacle.
+
+The first complete battle must begin around Chapters 4-6. No more than two consecutive opening chapters may be setup-only. Once a match begins, every chapter must contain direct pressure and a meaningful turn; no chapter may exist only to restate abilities, repeat commentary, or delay the next clash.
+
+Aim for a visible shift in each battle chapter: entrance -> first clash -> tactical read -> reversal -> emotional or historical pressure -> counterplay -> decisive choice. The order may change, but the fight must keep moving.
 
 ## Official Field
 The World Crown provisionally recognizes 195 participating national entries. Each enters exactly one champion.
@@ -18,6 +26,7 @@ Purpose: allow important champions multiple fights, introduce many combat system
 A group-stage loss does not automatically trigger National Collapse. Collapse starts only when a nation is officially eliminated from qualification.
 
 ### Match guidance
+Binding high-impact cadence: use the shortest range that can pay off the match. Minor matches should usually resolve in 1-2 chapters, important matches in 3-5, core matches in 5-8, standard knockouts in 4-7, major ensemble knockouts in 7-10, and late-stage payoff matches in 8-12. Longer fights require a distinct character, mystery, or national consequence in every added chapter.
 - Minor: 1–3 chapters.
 - Important: 4–7 chapters.
 - Core ensemble/headline: 7–10 chapters, longer only when earned.
@@ -53,6 +62,8 @@ Directional balance:
 - ~10% historical flashbacks
 - ~10% Crown mystery/worldbuilding
 - ~5% politics, humor, preparation, recovery, aftermath
+
+The atmosphere should remain fast, mythic, ceremonial, and dangerous. Use commentary, national reaction, cultural contrast, and humor to sharpen the fight's meaning, not to delay it.
 
 Do not chain major fights endlessly. Use quieter chapters for recovery, interaction, analysis, historical contradiction, refugee consequences, national reactions, humor, and Crown investigation.
 

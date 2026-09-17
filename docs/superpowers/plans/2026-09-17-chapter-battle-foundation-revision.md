@@ -20,6 +20,7 @@
 - Every battle must give both champions a dramatic, historically grounded presentation of identity, achievements, Crown Title, capabilities, limits, and unanswered danger before the first meaningful exchange.
 - The series planning target is approximately 300 chapters, with immediate opening movement and no slow setup-only start.
 - Champion arrival and introduction staging must vary across neighboring battles; no repeated entrance pattern may become the default.
+- Use a fast mythic tournament cadence: first complete battle around Chapters 4-6, no more than two setup-only opening chapters, and direct pressure plus a meaningful turn in every battle chapter.
 - Draft ideas belong in planning/future-story/story-studio until promoted.
 - Do not silently overwrite locked canon; update affected dependent files together.
 - Manuscript prose uses close third-person limited by default, with natural dialogue, emotional specificity, varied rhythm, and distinct character voices.
