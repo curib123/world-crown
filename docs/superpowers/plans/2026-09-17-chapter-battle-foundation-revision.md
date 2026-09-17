@@ -198,7 +198,7 @@
 
   ```powershell
   git diff --check
-  if (rg -n "TBD|TODO|fill in|implement later" --glob "*.md" .) { exit 1 }
+  if (rg -n "TBD|TODO|fill in|implement later" --glob "*.md" --glob "!docs/superpowers/**" .) { exit 1 }
   rg -n "1,000|standalone|next-chapter|Champion Presentation|Verified accomplishments|Crown Title|capability limits|counterplay|documented history|disputed history|legend|Crown interpretation" 00_PROJECT 01_CANON 02_CHAMPIONS 05_TOURNAMENT 06_REFERENCES 07_TEMPLATES 08_PLANNING 10_QA AGENTS.md
   ```
 
