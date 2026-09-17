@@ -17,6 +17,9 @@ There is no single permanent main character and no permanently privileged protag
 
 Two primary protagonists may fight each other. A protagonist may lose, die, be eliminated, or lose their homeland.
 
+## Chapter and Battle Contract
+Every finished manuscript chapter must stand alone as a complete dramatic unit, connect to its neighboring chapters through payoff and changed state, contain at least 1,000 meaningful words of narrative prose, and plant or carry forward a trackable foreshadowing seed. Every battle must begin with a dramatic Champion Presentation that establishes both champions' identity, achievements, Crown Title, historical or legendary meaning, capabilities, limitations, and an unanswered danger before the first meaningful exchange. See `CHAPTER_AND_BATTLE_CONTINUITY_RULES.md` for enforcement.
+
 ## Crown Titles
 Every champion receives a unique Crown Title representing the historical or legendary idea most strongly associated with them.
 

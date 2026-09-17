@@ -3,11 +3,13 @@
 ## Authority order
 1. `01_CANON/MASTER_CANON.md`
 2. `01_CANON/NARRATIVE_STRUCTURE.md`
-3. `04_POWER_SYSTEMS/MASTER_POWER_SYSTEM.md`
-4. `05_TOURNAMENT/FORMAT_AND_PACING.md`
-5. `08_PLANNING/SERIES_SAGA_OUTLINE.md`
-6. champion- and match-specific files
-7. draft prose
+3. `01_CANON/CHAPTER_AND_BATTLE_CONTINUITY_RULES.md`
+4. `04_POWER_SYSTEMS/MASTER_POWER_SYSTEM.md`
+5. `05_TOURNAMENT/FORMAT_AND_PACING.md`
+6. `08_PLANNING/SERIES_SAGA_OUTLINE.md`
+7. `00_PROJECT/WRITING_RULE.md`
+8. champion- and match-specific files
+9. draft prose
 
 ## Hard rules
 - Do not import story canon from `Survive-as-reincarnated-bat-`.
@@ -18,6 +20,10 @@
 - Draft ideas belong in planning/future-story/story-studio until promoted.
 - Do not silently overwrite locked canon. Update affected dependent files together.
 - Manuscript prose must follow the current approved writing-rule spec once implemented.
+- Every finished chapter must contain at least 1,000 meaningful narrative words and connect standalone local drama to neighboring chapters through payoff, changed state, and foreshadowing.
+- Every battle must open with a historically grounded Champion Presentation for both fighters before the first meaningful exchange.
+- The series planning target is approximately 300 chapters; the opening must establish active stakes and consequential movement without a slow setup-only start.
+- Champion arrival and introduction staging must vary across neighboring battles and be recorded in the match plan.
 
 ## Current state
-The base foundation is active. The story-foundation revision covering villains, foreshadowing, mysteries, plot twists, emotional pacing, history integration, and close-third-person prose is documented under `docs/superpowers/specs/` and is pending implementation into canon files.
+The base foundation and story-foundation revision are active. The revision covering villains, foreshadowing, mysteries, plot twists, emotional pacing, history integration, close-third-person prose, standalone 1,000+ word chapters, varied Champion Presentations, active opening pace, and an approximately 300-chapter plan is implemented across canon, planning, templates, and QA files.

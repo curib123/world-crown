@@ -20,9 +20,32 @@
 - Foreshadowing seeds:
 - Public/national pressure:
 - Hidden tactical information:
+- Arrival mode:
+- Arrival modes used in the previous three major battles:
+- Why this arrival mode fits both champion identity and current stakes:
+
+## Champion Presentation Plan
+- Presentation POV / source for Fighter A:
+- Presentation POV / source for Fighter B:
+- Fighter A entrance image and immediate motive:
+- Fighter B entrance image and immediate motive:
+- Fighter A verified accomplishment:
+- Fighter B verified accomplishment:
+- Fighter A Crown Title and meaning:
+- Fighter B Crown Title and meaning:
+- Historical / legendary distinction:
+- Fighter A Human Art and recognizable method:
+- Fighter B Human Art and recognizable method:
+- Capability and limit revealed for each:
+- Regalia / Legacy shown for each:
+- Opponent contrast:
+- Unanswered danger or concealed cost:
+- Foreshadowing payoff:
+- Handoff into first meaningful exchange:
+- Introduction variety check: (different staging, POV, emotional register, and reveal order from neighboring battles)
 
 ## Fight Structure
-1. Entry / introduction
+1. Champion Presentation for both fighters
 2. Initial Human Art exchange
 3. First tactical read
 4. Regalia / Legacy reveal

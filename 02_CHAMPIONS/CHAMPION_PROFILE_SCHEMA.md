@@ -8,7 +8,14 @@ Every locked champion profile should define:
 - Crown Title
 - Core Theme
 - Reason for Fighting
+- Champion Presentation hook / entrance image
+- Verified accomplishments
+- Disputed accomplishments or claims
+- Later legend and public reputation
+- Known capability limits
+- Introduction danger or unanswered question
 - Personality / voice
+- Voice habits / dialogue identity
 - Starting Belief
 - Personal Wound or Regret
 - Historical Contradiction / Legend Distortion risk
@@ -31,6 +38,7 @@ Every locked champion profile should define:
 - Optional Crown Revelation
 - Primary Weakness
 - Rival / Relationship Anchors
+- Chapter handoff hooks / foreshadowing seeds
 - Planned Character Arc
 - Planned Tournament Function
 - Research Notes / source status
