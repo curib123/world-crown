@@ -8,8 +8,18 @@
 - Core Theme:
 - Reason for Fighting:
 
+## Champion Presentation
+- Entrance image / action:
+- Verified accomplishments:
+- Disputed accomplishments or claims:
+- Later legend / public reputation:
+- Introduction danger or unanswered question:
+- Known capability limits:
+- Historical evidence labels used:
+
 ## Character
 - Personality / voice:
+- Voice habits / dialogue identity:
 - Starting Belief:
 - Personal Wound / Regret:
 - Historical Contradiction:
@@ -59,6 +69,7 @@
 - Tournament role:
 - Rivalries:
 - Mystery relevance:
+- Chapter handoff hooks / foreshadowing seeds:
 - Possible elimination / post-elimination role:
 
 ## Research
