@@ -4,7 +4,7 @@
 
 The planning target is approximately 300 chapters. Ranges remain flexible, but the complete story must not drift into a slow opening or prolonged waiting period between meaningful developments.
 
-The Crown crisis, national stakes, and first consequential champion decisions begin in the opening chapters. The opening saga must reach meaningful tournament movement early, and setup chapters must contain conflict, pressure, a decision, or a relationship change. No chapter exists only to repeat rules or delay the next event.
+The Crown crisis, national stakes, and first consequential champion decisions begin in the opening chapters. Saga I must include the first complete battle around Chapters 8-12, not only demonstrations or preparation. That battle's result must create a continuing consequence for Saga II. Setup chapters must contain conflict, pressure, a decision, or a relationship change. No chapter exists only to repeat rules or delay the next event.
 
 ## Official Field
 The World Crown provisionally recognizes 195 participating national entries. Each enters exactly one champion.

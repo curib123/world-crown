@@ -3,7 +3,7 @@
 Target scale: approximately 300 chapters. Ranges are planning guides, not quotas; the story may expand only when added chapters create necessary character, mystery, national, or Crown consequences.
 
 ## Saga I - The Crown Descends | Ch. 1-18
-World Crown appears; Culling announced; National Records and immediate national pressure force action; reconstruction is proven; first meaningful champion decisions and consequential tournament movement occur early. End: registration closes with an active threat.
+World Crown appears; Culling announced; National Records and immediate national pressure force action; reconstruction is proven; first meaningful champion decisions occur early; and the first complete battle takes place around Chapters 8-12. Its result changes a relationship, public belief, tactical plan, or national stake and launches Saga II. End: registration closes with an active threat.
 
 ## Saga II - Champions of Humanity | Ch. 19-38
 Major champions arrive through varied identity-grounded entrances; Crown Titles and Regalia are introduced; historical/modern interaction, rivalries, and friendships form. End: groups revealed and the first strategic conflict is already active.
