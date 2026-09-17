@@ -155,14 +155,42 @@ Each recurring character needs recognizable conversational habits based on perso
 ## Quotes / memorable lines
 Memorable lines must emerge from conflict or character truth. Do not force a quotable line every scene.
 
-# 13. Planned Files to Add During Implementation
+# 13. Chapter Continuity and Champion Presentation Contract
+Every chapter must be satisfying as a standalone dramatic unit while remaining part of a visible chain. A chapter plan or draft must identify:
+- dominant POV and scene-specific voice;
+- immediate objective, pressure, conflict, or meaningful decision;
+- emotional movement or changed understanding;
+- what the chapter pays off from the previous chapter;
+- what unresolved pressure it carries forward;
+- at least one forward seed for the next chapter or a later reveal;
+- the chapter's closing change: decision, consequence, discovery, relationship shift, tactical change, or new danger.
+
+Quiet chapters follow the same contract. Their central conflict may be recovery, political pressure, investigation, cultural interaction, grief, preparation, civilian consequence, or relationship change rather than combat. A chapter may end without a cliffhanger, but it may not end without change.
+
+Foreshadowing seeds must be classified as behavioral, visual, dialogue-based, historical, mechanical, relational, or thematic. The foreshadowing ledger must connect a seed to its first interpretation, reinforcement, optional misdirection, reveal, payoff, and consequence. The next chapter should normally receive a direct handoff from the previous chapter's changed state, even when the story shifts POV or location.
+
+Every battle must open with a Champion Presentation before the first meaningful exchange. The presentation is dramatic and character-specific, not a detached biography block. It must establish, through action, witness reaction, record, dialogue, memory, or public interpretation:
+- the champion's name, national entry, era, and immediate reason for fighting;
+- Crown Title and the historical or legendary idea it represents;
+- verified accomplishments, with disputed history and later legend clearly separated;
+- Human Art and recognizable combat method;
+- Regalia, Legacy Trait, known capabilities, and meaningful limits;
+- why this opponent is a compelling contrast;
+- one unanswered question, concealed cost, or foreshadowed danger.
+
+The introduction must make the champion legible as a person before treating them as a symbol. It must not grant an ability that has not been established by history, identity, prior observation, or fair foreshadowing. The opponent receives equal narrative dignity, even when one fighter is a supporting champion.
+
+# 14. Planned Files to Add During Implementation
 - `01_CANON/ANTAGONIST_STRUCTURE.md`
 - `01_CANON/FORESHADOWING_AND_MYSTERY_RULES.md`
+- `01_CANON/CHAPTER_AND_BATTLE_CONTINUITY_RULES.md`
 - `02_CHAMPIONS/CHARACTER_ARC_FRAMEWORK.md`
 - `06_REFERENCES/HISTORY_INTEGRATION_RULES.md`
 - `08_PLANNING/EMOTIONAL_AND_MYSTERY_PACING.md`
 - `08_PLANNING/FORESHADOWING_LEDGER.md`
 - `08_PLANNING/PLOT_TWIST_LEDGER.md`
+- `07_TEMPLATES/CHAPTER_TEMPLATE.md`
+- `07_TEMPLATES/CHAMPION_INTRODUCTION_CHECKLIST.md`
 - `10_QA/PROSE_STYLE_QA.md`
 - `00_PROJECT/WRITING_RULE.md`
 
@@ -170,4 +198,4 @@ Memorable lines must emerge from conflict or character truth. Do not force a quo
 `MASTER_CANON`, `NARRATIVE_STRUCTURE`, `ENSEMBLE_CAST_RULES`, `FORMAT_AND_PACING`, `SERIES_SAGA_OUTLINE`, `CANON_QA_CHECKLIST`, and `AGENTS.md`.
 
 ## Success criteria
-Continuous antagonistic pressure; a recognizable Crown face without premature exposition; enforceable character arcs; varied emotional pacing; controlled mysteries; fair foreshadowing and twists; history integrated through drama; strong minor/major villains; and close, emotional, conversation-rich prose that reads like a deliberate novel rather than a reusable AI template.
+Continuous antagonistic pressure; a recognizable Crown face without premature exposition; enforceable character arcs; varied emotional pacing; controlled mysteries; fair foreshadowing and twists; every chapter functioning as a standalone unit with a clear handoff to neighboring chapters; every battle giving both champions a dramatic, historically grounded presentation of identity, achievement, title, and capability; history integrated through drama; strong minor/major villains; and close, emotional, conversation-rich prose that reads like a deliberate novel rather than a reusable AI template.
