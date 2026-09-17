@@ -9,6 +9,12 @@ Target roughly 8–12 recurring primary protagonists from different nations, per
 ## POV Rule
 Use rotating third-person limited POV. A scene normally has one dominant viewpoint. Switch POV between chapters or at clear scene breaks; avoid casual head-hopping.
 
+## Chapter Contract
+Each chapter must contain a local objective or pressure, conflict or meaningful decision, emotional movement, payoff from the previous chapter, a changed state, and a forward seed. Every finished chapter is at least 1,000 meaningful words of narrative prose; titles, notes, metadata, and QA text do not count. Quiet chapters may focus on recovery, politics, investigation, culture, grief, preparation, civilian consequence, or relationships, but they still end with change.
+
+## Chapter Handoff
+The following chapter receives a causal, emotional, tactical, investigative, political, relational, or thematic handoff from the preceding chapter. A POV or location change is allowed when the changed state remains legible. Foreshadowing seeds are classified and tracked through the project's foreshadowing ledger.
+
 ## Match POV
 Major matches may use both fighters as POV characters. Both sides should be emotionally legible even if only one is part of the core ensemble.
 
@@ -26,7 +32,7 @@ Historical flashbacks should be triggered by present conflict and reveal charact
 
 ## Major Match Mini-Story
 1. setup and stakes;
-2. champion introduction;
+2. Champion Presentation for both fighters before the first meaningful exchange;
 3. Human Art exchange;
 4. philosophy/method clash;
 5. Regalia/Legacy revelation;
