@@ -41,6 +41,14 @@ Survivors and eliminated champions choose sides; friendships fracture; fights oc
 ## Saga XIII — Crown War | Ch. 626+
 Former enemies cooperate or settle ideological conflict; team battles; modern/historical champions fight side by side; humanity confronts the system deciding which civilizations may continue.
 
+## Continuity Requirements Across All Sagas
+
+Every chapter in every saga uses the standalone chapter contract: at least 1,000 meaningful words, a local dramatic movement, payoff from the previous changed state, a forward seed, and a closing change. The story may change POV, nation, or location, but the handoff must remain legible.
+
+Champion Presentations grow with the tournament. Early introductions establish identity, accomplishment, Title, and basic capability. Middle-series introductions expose contradictions, limits, and relationship stakes. Late-series introductions pay off historical research, legend distortion, Crown Resonance, and the moral cost of each champion's reputation.
+
+Foreshadowing and mystery progression follows the ledgers in `08_PLANNING/FORESHADOWING_LEDGER.md` and `08_PLANNING/PLOT_TWIST_LEDGER.md`. Each saga must advance the Tournament Layer, Character Layer, and Mystery Layer; standings alone are not sufficient.
+
 ### Thematic movement
 “My nation must survive.”
 → “My nation must win.”

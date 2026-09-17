@@ -51,3 +51,11 @@ Directional balance:
 Do not chain major fights endlessly. Use quieter chapters for recovery, interaction, analysis, historical contradiction, refugee consequences, national reactions, humor, and Crown investigation.
 
 Every major match must change at least one of: standings, relationship, self-understanding, public perception, national survival, Crown knowledge, or future strategy.
+
+## Chapter and Battle Gates
+
+Every finished chapter must contain at least 1,000 meaningful words of narrative prose and function as a standalone unit with a clear handoff from the preceding chapter and toward the next. A chapter may be quiet, but it must contain local pressure, emotional movement, and a closing change.
+
+Every battle must spend its opening movement on a Champion Presentation for both fighters before the first meaningful exchange. The presentation establishes name, national entry, era, reason for fighting, Crown Title, accomplishments, historical/legendary distinction, Human Art, capability, limitation, opponent contrast, and an unanswered danger. Do not open with an unexplained ability spectacle that has no established identity or foreshadowing.
+
+No three major fights in sequence should share the same reveal order, flashback timing, rhythm, or emotional ending. Use recovery, interaction, investigation, aftermath, and civilian consequence between major matches as needed.
