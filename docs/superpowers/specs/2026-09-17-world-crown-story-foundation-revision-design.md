@@ -165,6 +165,8 @@ Every chapter must be satisfying as a standalone dramatic unit while remaining p
 - at least one forward seed for the next chapter or a later reveal;
 - the chapter's closing change: decision, consequence, discovery, relationship shift, tactical change, or new danger.
 
+Every finished manuscript chapter must contain at least 1,000 words of actual narrative prose. Chapter titles, planning notes, metadata, author notes, and QA checklists do not count. The minimum must be met with meaningful scene content rather than padding, repeated exposition, or artificial fragmentation.
+
 Quiet chapters follow the same contract. Their central conflict may be recovery, political pressure, investigation, cultural interaction, grief, preparation, civilian consequence, or relationship change rather than combat. A chapter may end without a cliffhanger, but it may not end without change.
 
 Foreshadowing seeds must be classified as behavioral, visual, dialogue-based, historical, mechanical, relational, or thematic. The foreshadowing ledger must connect a seed to its first interpretation, reinforcement, optional misdirection, reveal, payoff, and consequence. The next chapter should normally receive a direct handoff from the previous chapter's changed state, even when the story shifts POV or location.
@@ -198,4 +200,4 @@ The introduction must make the champion legible as a person before treating them
 `MASTER_CANON`, `NARRATIVE_STRUCTURE`, `ENSEMBLE_CAST_RULES`, `FORMAT_AND_PACING`, `SERIES_SAGA_OUTLINE`, `CANON_QA_CHECKLIST`, and `AGENTS.md`.
 
 ## Success criteria
-Continuous antagonistic pressure; a recognizable Crown face without premature exposition; enforceable character arcs; varied emotional pacing; controlled mysteries; fair foreshadowing and twists; every chapter functioning as a standalone unit with a clear handoff to neighboring chapters; every battle giving both champions a dramatic, historically grounded presentation of identity, achievement, title, and capability; history integrated through drama; strong minor/major villains; and close, emotional, conversation-rich prose that reads like a deliberate novel rather than a reusable AI template.
+Continuous antagonistic pressure; a recognizable Crown face without premature exposition; enforceable character arcs; varied emotional pacing; controlled mysteries; fair foreshadowing and twists; every finished chapter containing at least 1,000 meaningful words of narrative prose; every chapter functioning as a standalone unit with a clear handoff to neighboring chapters; every battle giving both champions a dramatic, historically grounded presentation of identity, achievement, title, and capability; history integrated through drama; strong minor/major villains; and close, emotional, conversation-rich prose that reads like a deliberate novel rather than a reusable AI template.
