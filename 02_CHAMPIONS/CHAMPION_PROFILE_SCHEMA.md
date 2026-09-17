@@ -5,6 +5,11 @@ Every locked champion profile should define:
 - Country / national entry
 - Era
 - Historical-status notes
+- Host Sync status: historical host / self-hosted living champion
+- Host identity and agency
+- Host compatibility
+- Consent or refusal
+- Sync conflict and cost
 - Crown Title
 - Core Theme
 - Reason for Fighting

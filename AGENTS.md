@@ -4,12 +4,13 @@
 1. `01_CANON/MASTER_CANON.md`
 2. `01_CANON/NARRATIVE_STRUCTURE.md`
 3. `01_CANON/CHAPTER_AND_BATTLE_CONTINUITY_RULES.md`
-4. `04_POWER_SYSTEMS/MASTER_POWER_SYSTEM.md`
-5. `05_TOURNAMENT/FORMAT_AND_PACING.md`
-6. `08_PLANNING/SERIES_SAGA_OUTLINE.md`
-7. `00_PROJECT/WRITING_RULE.md`
-8. champion- and match-specific files
-9. draft prose
+4. `01_CANON/HOST_SYNC_RULES.md`
+5. `04_POWER_SYSTEMS/MASTER_POWER_SYSTEM.md`
+6. `05_TOURNAMENT/FORMAT_AND_PACING.md`
+7. `08_PLANNING/SERIES_SAGA_OUTLINE.md`
+8. `00_PROJECT/WRITING_RULE.md`
+9. champion- and match-specific files
+10. draft prose
 
 ## Hard rules
 - Do not import story canon from `Survive-as-reincarnated-bat-`.

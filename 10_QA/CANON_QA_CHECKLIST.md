@@ -27,6 +27,9 @@ Run before locking a champion, match, saga change, or chapter batch.
 - Authority has power, condition, limitation, counterplay?
 - Revelation earned and foreshadowed?
 - No unrelated emergency power?
+- Historical champions use Host Sync rather than resurrection or true-body reconstruction?
+- Host remains an independent person with agency, limits, and consequences?
+- Sync conflict, compatibility, and cost are documented?
 
 ## Match
 - Why are these fighters paired narratively?

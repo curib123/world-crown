@@ -13,6 +13,7 @@
 ## Global Constraints
 
 - Preserve the ensemble premise: no single permanent main character or hero nation.
+- Historical champions enter through Host Sync with a living, independent host; do not resurrect or recreate their true body.
 - Keep documented history, disputed history, legend, Crown interpretation, and deliberate fiction distinct.
 - Champion powers must grow from established identity and history; do not invent unrelated emergency powers.
 - Every finished manuscript chapter must contain at least 1,000 words of actual narrative prose; titles, planning notes, metadata, author notes, and QA checklists do not count.
@@ -33,6 +34,7 @@
 - Create: `01_CANON/ANTAGONIST_STRUCTURE.md`
 - Create: `01_CANON/FORESHADOWING_AND_MYSTERY_RULES.md`
 - Create: `01_CANON/CHAPTER_AND_BATTLE_CONTINUITY_RULES.md`
+- Create: `01_CANON/HOST_SYNC_RULES.md`
 - Modify: `01_CANON/MASTER_CANON.md`
 - Modify: `01_CANON/NARRATIVE_STRUCTURE.md`
 

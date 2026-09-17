@@ -3,6 +3,9 @@
 ## Purpose
 Strengthen the existing foundation without changing its ensemble premise, individualized champion power system, tournament identity, National Collapse stakes, or Humanity-vs-Crown endgame.
 
+## Host Sync Model
+Historical champions are not resurrected and their true bodies are not recreated. A deceased or historical champion synchronizes through a living compatible host. Host and champion remain separate persons with distinct memories, agency, physical limits, and stakes; cooperation, resistance, or desynchronization affects combat and character development. Living champions may enter as self-hosted participants. All foundation rules, templates, and QA must use Host Sync language and must not treat the host as an empty vessel.
+
 ## Problems to fix
 1. Middle-series antagonistic pressure is too abstract.
 2. The Crown lacks a persistent visible face.
@@ -198,6 +201,7 @@ The opening must reach the first complete battle around Chapters 4-6. No more th
 - `01_CANON/ANTAGONIST_STRUCTURE.md`
 - `01_CANON/FORESHADOWING_AND_MYSTERY_RULES.md`
 - `01_CANON/CHAPTER_AND_BATTLE_CONTINUITY_RULES.md`
+- `01_CANON/HOST_SYNC_RULES.md`
 - `02_CHAMPIONS/CHARACTER_ARC_FRAMEWORK.md`
 - `06_REFERENCES/HISTORY_INTEGRATION_RULES.md`
 - `08_PLANNING/EMOTIONAL_AND_MYSTERY_PACING.md`

@@ -18,7 +18,7 @@ Aim for a visible shift in each battle chapter: entrance -> first clash -> tacti
 The World Crown provisionally recognizes 195 participating national entries. Each enters exactly one champion.
 
 ## Phase 1 — Selection and Registration
-Every nation gains access to a National Record. Champion choice may involve government selection, national debate, Crown Compatibility, refusal, or country-specific conflict.
+Every nation gains access to a National Record. Champion choice and Host Sync pairing may involve government selection, national debate, Crown Compatibility, Host Compatibility, refusal, consent, or country-specific conflict.
 
 ## Phase 2 — Group Stage
 Purpose: allow important champions multiple fights, introduce many combat systems, build relationships before permanent elimination, establish standings, and avoid removing compelling fighters after one early loss.

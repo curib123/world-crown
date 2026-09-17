@@ -5,6 +5,8 @@ Complete this before the first meaningful exchange in every battle. The presenta
 ## Identity and Stakes
 
 - [ ] Entrance image or action shows the champion's present emotional state.
+- [ ] Host identity and agency are clear when the champion uses Host Sync.
+- [ ] The audience understands whether this is historical Host Sync or a self-hosted living champion.
 - [ ] Arrival mode is recorded and is materially different from neighboring major battles.
 - [ ] Arrival mode fits the champion's identity, history, relationship to the nation, and present motive.
 - [ ] Name and national entry are clear.
@@ -27,6 +29,7 @@ Complete this before the first meaningful exchange in every battle. The presenta
 - [ ] Regalia and its identity-based property are established when present.
 - [ ] Legacy Trait is established when present.
 - [ ] Known capability is paired with a meaningful limitation or cost.
+- [ ] Host body condition, control boundary, and sync cost are relevant when applicable.
 - [ ] No ability appears without identity, history, prior observation, or fair foreshadowing.
 
 ## Contrast and Handoff

@@ -8,6 +8,18 @@
 - Core Theme:
 - Reason for Fighting:
 
+## Host Sync
+- Status: historical host sync / self-hosted living champion
+- Host name / identity:
+- Host agency and present life:
+- Compatibility:
+- Consent / refusal:
+- First sync conflict:
+- Shared capability:
+- Control boundary:
+- Sync cost / desynchronization risk:
+- Relationship direction after each major battle:
+
 ## Champion Presentation
 - Entrance image / action:
 - Verified accomplishments:

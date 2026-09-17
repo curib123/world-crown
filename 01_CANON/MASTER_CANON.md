@@ -6,6 +6,9 @@ The World Crown appears and commands every participating national entry to choos
 ## National Rule
 Each participating nation has exactly one active champion. A champion represents a nation but remains an independent person with their own values, motives, regrets, and interpretation of homeland.
 
+## Host Sync
+The World Crown does not resurrect a champion's true body. Deceased or historical champions enter through Host Sync: a living compatible host carries a separate champion identity, memory-pattern, combat instinct, Crown Title, and legend through their own body. Host and champion remain distinct persons, and their cooperation or conflict affects control, power stability, character development, and battle outcome. Living champions may enter as self-hosted participants.
+
 ## The Culling
 The tournament is part of the Culling of Nations. A nation that is permanently eliminated enters National Collapse: instability, environmental and infrastructural failure, spatial loss, mass evacuation, and eventual territorial erasure. Citizens may survive as refugees.
 

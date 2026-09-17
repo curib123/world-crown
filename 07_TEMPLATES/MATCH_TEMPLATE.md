@@ -3,6 +3,7 @@
 ## Match
 - Fighter A:
 - Fighter B:
+- Host Sync status for each fighter:
 - Tournament phase:
 - Stakes:
 - POV plan:
@@ -20,6 +21,8 @@
 - Foreshadowing seeds:
 - Public/national pressure:
 - Hidden tactical information:
+- Host/champion conflict or alignment:
+- Host body limitation relevant to the match:
 - Arrival mode:
 - Arrival modes used in the previous three major battles:
 - Why this arrival mode fits both champion identity and current stakes:
