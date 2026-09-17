@@ -8,10 +8,10 @@ Everything the champion genuinely knew or developed in life: swordsmanship, boxi
 
 Human Art must remain relevant even in late fights. Supernatural abilities extend skill rather than replace it.
 
-# 2. Crown Body - Host-Synced State
-The World Crown does not resurrect or reconstruct the champion's true body. For a deceased or historical champion, Crown Body is the living host's temporarily synchronized combat state: the Crown enhances the host while the champion's memory-pattern, trained instincts, and identity become accessible through Host Sync. Living champions may enter in a self-hosted state.
+# 2. Crown Body - Soul-Drift Host State
+The World Crown does not resurrect or reconstruct the champion's true body. For a deceased or historical champion, Crown Body is the living host's temporarily synchronized combat state: the Crown enhances the host while the champion's drifting soul shares the body, bringing its memories, trained instincts, identity, Crown Title, and legend into active conflict with the modern host. Living champions may enter in a self-hosted state.
 
-Specialties may include strength, speed, durability, stamina, reactions, precision, senses, and recovery, but the host's physical history and limits remain relevant. Host and champion do not become one unquestioned person. Incomplete alignment can cause latency, pain, memory intrusion, control conflict, or desync. The host's body is not a neutral container, and the sync must be earned through compatibility, negotiation, or shared conviction.
+Specialties may include strength, speed, durability, stamina, reactions, precision, senses, and recovery, but the host's physical history and limits remain relevant. Host and champion are two personalities in one body, not one unquestioned person. Incomplete alignment can cause latency, pain, memory intrusion, control conflict, emotional bleed, or desync. The host's body is not a neutral container, and the sync must be earned through compatibility, negotiation, or shared conviction.
 
 # 3. Regalia
 A champion's supernatural combat equipment, derived from documented weapons, strongly associated equipment, fighting tradition, or symbolic objects central to legend. If an exact historical weapon is unknown, the story must not falsely present an invented weapon as authenticated fact.
@@ -42,7 +42,7 @@ Every Authority must define:
 No Authority may simply mean “this champion wins.”
 
 # 8. Crown Resonance
-Growth is alignment among the host's true self, the champion's historical life, public legend, Crown Title, and present conviction. For self-hosted living champions, the host/champion distinction is internalized rather than represented by two separate people.
+Growth is alignment among the host's soul and true self, the champion's drifting soul and historical life, public legend, Crown Title, and present conviction. For self-hosted living champions, the host/champion distinction is internalized rather than represented by two separate people.
 
 - Low Resonance — mainly Human Art + Crown Body.
 - Awakened Resonance — Regalia, Legacy, and Signature Arts become more complete.
@@ -65,5 +65,5 @@ A rare climax state when Human Art, Crown Title, Legacy, and present conviction 
 - Avoid generic energy escalation.
 
 # Standard Power Profile
-Every champion file must define Host Sync or self-hosted status, host identity and agency, compatibility, sync conflict/cost, Human Art, and Crown Body specialty in addition to the power layers below.
+Every champion file must define Soul Drift and Host Sync or self-hosted status, host identity and agency, champion identity and agency, compatibility, sync conflict/cost, Human Art, and Crown Body specialty in addition to the power layers below.
 Every champion file must define Human Art, Crown Body specialty, Regalia/property, Legacy Trait, 3–7 Signature Arts in full canon, Crown Title, Legend Authority, condition, limitation, counterplay, Crown Resonance conflict, optional True Regalia/Revelation, and primary weakness.

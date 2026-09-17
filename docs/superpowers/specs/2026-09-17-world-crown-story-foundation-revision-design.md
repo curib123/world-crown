@@ -3,8 +3,8 @@
 ## Purpose
 Strengthen the existing foundation without changing its ensemble premise, individualized champion power system, tournament identity, National Collapse stakes, or Humanity-vs-Crown endgame.
 
-## Host Sync Model
-Historical champions are not resurrected and their true bodies are not recreated. A deceased or historical champion synchronizes through a living compatible host. Host and champion remain separate persons with distinct memories, agency, physical limits, and stakes; cooperation, resistance, or desynchronization affects combat and character development. Living champions may enter as self-hosted participants. All foundation rules, templates, and QA must use Host Sync language and must not treat the host as an empty vessel.
+## Soul Drift and Host Sync Model
+Soul Drift is the rare natural reincarnation mechanism: after biological death, a soul can separate from its body and under rare conditions cross between times, realms, or worlds. Historical champions are not resurrected and their true bodies are not recreated. The World Crown uses Host Sync to anchor a drifting champion soul inside a living modern host, creating two souls and two personalities in one body. Host and champion remain separate persons with distinct memories, agency, physical limits, and stakes; cooperation, resistance, or desynchronization affects combat and character development. Living champions may enter as self-hosted participants. All foundation rules, templates, and QA must use Soul Drift/Host Sync language and must not treat the host as an empty vessel.
 
 ## Problems to fix
 1. Middle-series antagonistic pressure is too abstract.

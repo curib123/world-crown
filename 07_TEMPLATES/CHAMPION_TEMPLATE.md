@@ -9,12 +9,14 @@
 - Reason for Fighting:
 
 ## Host Sync
-- Status: historical host sync / self-hosted living champion
-- Host name / identity:
-- Host agency and present life:
+- Soul Drift status: historical drifted soul / self-hosted living champion
+- Modern host name / identity:
+- Modern host soul, agency, and present life:
+- Champion soul identity and agency:
 - Compatibility:
 - Consent / refusal:
 - First sync conflict:
+- Two-personality relationship:
 - Shared capability:
 - Control boundary:
 - Sync cost / desynchronization risk:

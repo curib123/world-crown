@@ -5,8 +5,10 @@ Complete this before the first meaningful exchange in every battle. The presenta
 ## Identity and Stakes
 
 - [ ] Entrance image or action shows the champion's present emotional state.
-- [ ] Host identity and agency are clear when the champion uses Host Sync.
-- [ ] The audience understands whether this is historical Host Sync or a self-hosted living champion.
+- [ ] Modern host soul, identity, and agency are clear when the champion uses Host Sync.
+- [ ] The champion soul's identity and agency are clear.
+- [ ] The audience understands whether this is historical Soul Drift/Host Sync or a self-hosted living champion.
+- [ ] The two personalities sharing one body are dramatized rather than treated as a costume change.
 - [ ] Arrival mode is recorded and is materially different from neighboring major battles.
 - [ ] Arrival mode fits the champion's identity, history, relationship to the nation, and present motive.
 - [ ] Name and national entry are clear.

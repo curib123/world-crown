@@ -10,8 +10,8 @@ Each participating nation gains access to a supernatural National Record contain
 
 Selection can involve government choice, public pressure, Crown Compatibility, refusal, political dispute, or champion consent depending on later canon.
 
-## Host Sync
-Dead historical figures are not resurrected and their true bodies are not recreated. The World Crown selects a living compatible host and synchronizes the historical champion's identity, memory-pattern, trained instincts, Crown Title, and legend through the host's own body. Host and champion remain separate persons; the host may consent, resist, negotiate, or be changed by the sync. Living champions may enter as self-hosted participants. Time and death do not prevent participation, but every historical entry requires a living host relationship.
+## Soul Drift and Host Sync
+Soul Drift is the rare natural reincarnation mechanism of this world: after biological death, a soul can separate from its body and, under rare conditions, cross between times, realms, or worlds. The World Crown does not resurrect the true body. It uses Host Sync to anchor the drifting historical champion soul inside a living compatible modern host. Two souls and two personalities share one body; the host may consent, resist, negotiate, or be changed by the relationship, while the champion remains a separate person. Living champions may enter as self-hosted participants. Time and death do not prevent participation, but every historical entry requires a living host relationship.
 
 ## National Collapse
 Collapse begins only after formal tournament elimination, not after an ordinary group-stage loss.

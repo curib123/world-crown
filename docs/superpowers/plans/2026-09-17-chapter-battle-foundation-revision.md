@@ -13,7 +13,7 @@
 ## Global Constraints
 
 - Preserve the ensemble premise: no single permanent main character or hero nation.
-- Historical champions enter through Host Sync with a living, independent host; do not resurrect or recreate their true body.
+- Historical champions enter through Soul Drift and Host Sync with a living, independent host; two souls and two personalities share one body, and the true body is not resurrected or recreated.
 - Keep documented history, disputed history, legend, Crown interpretation, and deliberate fiction distinct.
 - Champion powers must grow from established identity and history; do not invent unrelated emergency powers.
 - Every finished manuscript chapter must contain at least 1,000 words of actual narrative prose; titles, planning notes, metadata, author notes, and QA checklists do not count.

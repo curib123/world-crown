@@ -27,8 +27,9 @@ Run before locking a champion, match, saga change, or chapter batch.
 - Authority has power, condition, limitation, counterplay?
 - Revelation earned and foreshadowed?
 - No unrelated emergency power?
-- Historical champions use Host Sync rather than resurrection or true-body reconstruction?
-- Host remains an independent person with agency, limits, and consequences?
+- Historical champions use Soul Drift and Host Sync rather than resurrection or true-body reconstruction?
+- Modern host soul and champion soul remain independent persons with agency, limits, and consequences?
+- Two personalities in one body are dramatized through conflict, cooperation, or negotiation?
 - Sync conflict, compatibility, and cost are documented?
 
 ## Match

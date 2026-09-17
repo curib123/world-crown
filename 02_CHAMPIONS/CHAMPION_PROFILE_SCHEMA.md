@@ -5,8 +5,9 @@ Every locked champion profile should define:
 - Country / national entry
 - Era
 - Historical-status notes
-- Host Sync status: historical host / self-hosted living champion
-- Host identity and agency
+- Soul Drift / Host Sync status: historical drifted soul / self-hosted living champion
+- Modern host identity and agency
+- Champion soul identity and agency
 - Host compatibility
 - Consent or refusal
 - Sync conflict and cost
